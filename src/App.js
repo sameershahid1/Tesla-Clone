@@ -12,7 +12,7 @@ Dispatch(TeslaDataActions.Storing({Data}));
 
 return (
     <div>
-      {/* <Header/> */}
+      <Header/>
       <Home/>
     </div>
   )
